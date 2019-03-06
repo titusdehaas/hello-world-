@@ -1,3 +1,3 @@
 # hello-world-
 hello word exercise 
-\hello there, im Titus. 
+/hello there, im Titus. 
